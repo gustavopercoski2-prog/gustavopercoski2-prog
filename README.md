@@ -33,15 +33,6 @@
 <br/>
 <hr/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,js,html,css,react&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
   </p>
