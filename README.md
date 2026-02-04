@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2c3e50&height=180&section=header&text=Gustavo%20Percoski&fontSize=40&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=IT%20Technician%20%7C%20ADS%20Student%20%7C%20Jr.+Full+Stack+Developer&descSize=16&descAlignY=75&font=Josefin%20Sans" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -57,7 +52,3 @@ Olá! Sou técnico de TI e graduando em **Análise e Desenvolvimento de Sistemas
     <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=footer" width="100%"/>
-</div>
