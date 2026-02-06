@@ -1,18 +1,20 @@
-
 ## Olá, eu sou o Gustavo Percoski! 👋
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&theme=tokyonight" />
-</p>
+### Técnico de TI | Estudante de ADS | Desenvolvedor Full Stack Jr.
+
+<div align="center">
+  <img height="180em"
+       src="https://github-readme-stats-fast.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&custom_title=Most+Used+Languages" />
+</div>
 
 ### 👤 Sobre mim:
 
-Sou técnico de TI e graduando em **Análise e Desenvolvimento de Sistemas pela Unisinos**. Possuo experiência em **Help Desk e Suporte de TI (N1 e N2)**, onde atuei diretamente na resolução de incidentes e suporte especializado a usuários. Atualmente, foco meus estudos em **Desenvolvimento Full Stack e Cloud Computing**, buscando integrar minha base em infraestrutura com a criação de soluções tecnológicas inovadoras.
+Sou técnico de TI e graduando em **Análise e Desenvolvimento de Sistemas pela Unisinos**. Possuo experiência em **Help Desk e Suporte de TI (N1 e N2)**, onde atuei diretamente na resolução de incidentes e suporte especializado a usuários. Atualmente, foco meus estudos em **Desenvolvimento Full Stack, Cloud Computing e Infraestrutura de TI**.
 
 ---
 
-### 🛠️ Principais Ferramentas e Tecnologias:
+### 💻 Principais Ferramentas e Tecnologias:
 
 <p align="left">
   <img alt="HTML5" title="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
