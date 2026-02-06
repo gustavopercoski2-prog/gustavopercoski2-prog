@@ -2,8 +2,8 @@
 ## Olá, eu sou o Gustavo Percoski! 👋
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&theme=dark&custom_title=Most%20Used%20Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&theme=tokyonight" />
 </p>
 
 ### 👤 Sobre mim:
