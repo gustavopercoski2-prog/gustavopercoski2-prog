@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo Percoski! 👋
 
-### Técnico de TI | Estudante de ADS | Desenvolvedor Full Stack Jr.
+### Desenvolvedor Full Stack
 
 <div align="center">
   <img height="180em"
@@ -8,9 +8,14 @@
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&custom_title=Most+Used+Languages" />
 </div>
 
-### 👤 Sobre mim:
+### Sobre mim
 
-Sou técnico de TI e graduando em **Análise e Desenvolvimento de Sistemas pela Unisinos**. Possuo experiência em **Help Desk e Suporte de TI (N1 e N2)**, onde atuei diretamente na resolução de incidentes e suporte especializado a usuários. Atualmente, foco meus estudos em **Desenvolvimento Full Stack, Cloud Computing e Infraestrutura de TI**.
+Sou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos, com foco em desenvolvimento de software e automação de soluções.
+
+Tenho experiência prática na construção de aplicações backend e full stack, aplicando boas práticas de arquitetura, segurança e regras de negócio. Gosto de desenvolver soluções que resolvem problemas reais, especialmente envolvendo sistemas, APIs, banco de dados e automação de processos.
+
+Atualmente, direciono meus estudos e projetos para desenvolvimento backend/full stack, com ênfase em Python, Java, aplicações web e integração com ambientes cloud.
+
 
 ---
 
