@@ -1,25 +1,26 @@
 ## Olá, eu sou o Gustavo Percoski! 👋
 
-### Desenvolvedor Full Stack
-
 <div align="center">
   <img height="180em"
        src="https://github-readme-stats-fast.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&custom_title=Most+Used+Languages" />
 </div>
 
-### Sobre mim
+---
 
-Sou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos, com foco em desenvolvimento de software e automação de soluções.
+### 🧑‍💻 Sobre mim:
 
-Tenho experiência prática na construção de aplicações backend e full stack, aplicando boas práticas de arquitetura, segurança e regras de negócio. Gosto de desenvolver soluções que resolvem problemas reais, especialmente envolvendo sistemas, APIs, banco de dados e automação de processos.
+Sou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos e Técnico de TI com experiência em suporte, infraestrutura e automação de soluções.
 
-Atualmente, direciono meus estudos e projetos para desenvolvimento backend/full stack, com ênfase em Python, Java, aplicações web e integração com ambientes cloud.
+Tenho experiência prática no desenvolvimento de aplicações backend e full stack, construindo APIs, sistemas web e integrações com banco de dados, sempre aplicando boas práticas de arquitetura, segurança e organização de código.
 
+Meus projetos são focados em resolver problemas reais, envolvendo sistemas corporativos, autenticação, controle de acesso e automação de processos.
+
+Atualmente, direciono meus estudos e projetos para desenvolvimento backend e full stack, com foco em Python, Java e aplicações web integradas a ambientes cloud.
 
 ---
 
-### 💻 Principais Ferramentas e Tecnologias:
+### 💻 Tecnologias e Ferramentas:
 
 <p align="left">
   <img alt="HTML5" title="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
