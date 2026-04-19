@@ -1,62 +1,76 @@
-## Olá, eu sou o Gustavo Percoski! 👋
+## Hey, I'm Gustavo Percoski! 👋
 
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-fast.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gustavopercoski2-prog&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavopercoski2-prog&layout=compact&custom_title=Most+Used+Languages" />
 </div>
 
 ---
 
-### 🧑‍💻 Sobre mim:
+### 🧑‍💻 About Me
 
-Sou graduando em Análise e Desenvolvimento de Sistemas pela Unisinos e Técnico de TI com experiência em suporte, infraestrutura e automação de soluções.
+I'm a Systems Analysis and Development student at Unisinos and an IT Technician with hands-on experience in support, infrastructure, and process automation.
 
-Tenho experiência prática no desenvolvimento de aplicações backend e full stack, construindo APIs, sistemas web e integrações com banco de dados, sempre aplicando boas práticas de arquitetura, segurança e organização de código.
+I have practical experience building backend and full stack applications, including REST APIs, web systems, and database integrations, always following clean architecture, security best practices, and well-organized code.
 
-Meus projetos são focados em resolver problemas reais, envolvendo sistemas corporativos, autenticação, controle de acesso e automação de processos.
+My projects focus on solving real-world problems like corporate systems, authentication, access control, and workflow automation.
 
-Atualmente, direciono meus estudos e projetos para desenvolvimento backend e full stack, com foco em Python, Java e aplicações web integradas a ambientes cloud.
+Currently, I'm deepening my skills in backend and full stack development, with a focus on Python, Java, and cloud-integrated web applications.
 
 ---
 
-### 💻 Tecnologias e Ferramentas:
+### 💻 Technologies & Tools
 
-<p align="left">
-  <img alt="HTML5" title="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
-  <img alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Django" title="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  
-  <img alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" title="Spring Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+#### 🌐 Frontend & Web
+<p>
+  <img alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
 
-  <img alt="SQL Azure" title="SQL Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="PostgreSQL" title="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+#### 🖥️ Backend & Databases
+<p>
+  <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;
+  <img alt="Django" title="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  &nbsp;
+  <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  &nbsp;
+  <img alt="Spring Boot" title="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  &nbsp;
+  <img alt="C#" title="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  &nbsp;
+  <img alt="Azure SQL" title="Azure SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</p>
 
-  <img alt="Windows Server" title="Windows Server" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img alt="PowerShell" title="PowerShell" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-  <img alt="Azure" title="Microsoft Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  
-  <img alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+#### ☁️ Cloud, DevOps & Infra
+<p>
+  <img alt="Microsoft Azure" title="Microsoft Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  &nbsp;
+  <img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="Linux" title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
 ---
 
-### 📩 Contato:
+### 📩 Get in Touch
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/gustavo-percoski/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/pski.gustavo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:gustavopercoski2@GMAIL.COM">
+  &nbsp;
+  <a href="mailto:gustavopercoski2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://wa.me/5551991651479" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
